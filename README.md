@@ -11,5 +11,5 @@ Fact table
 * Weather Data
 
 Log table
-Every update to the fact or dimensional tables are added to the log table entry. The log table is implemented with the concept of decorator.
+* Every update to the fact or dimensional tables are added to the log table entry. The log table is implemented with the concept of decorator.
 
